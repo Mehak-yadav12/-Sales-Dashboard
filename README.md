@@ -31,6 +31,7 @@ The best dashboard explaination format.
 
 Screenshot / Demos
 Show what the dashboard looks like. https://github.com/Mehak-yadav12/-Sales-Dashboard/blob/main/SUPER%20STORE%20SALES%20DASHBOARD.pbit
+
 Example:- https://github.com/Mehak-yadav12/-Sales-Dashboard/blob/main/SUPER%20STORE%20DASHBOARD%20SS.PNG
 
 
